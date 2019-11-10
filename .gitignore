@@ -1,3 +1,5 @@
 .idea
 Thumbs.db
 desktop.ini
+*.pyc
+*.pyo
